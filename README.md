@@ -10,7 +10,7 @@ I want to do some part-time jobs in my spare time. Because one day, I wish I cou
 
 My power comes from Python, Javascript, Java, Golang, CPP, and so on. But to be honest, I can only use `Reactjs` or `Expo` or `Vuejs` or `Electron` or `Android Studio` or `Keras` or `Linux` or `Github` or `Stackoverflow` to do some development. Yes, I'm not an expert, so sadly.
 
-For what I could do, you have to take a look at my repos, except those I forked, they have everything you need to know me.
+For what I could do, you could take a look at my repos, except those I forked, they have everything you need to know me.
 
 By the way, contact me with [Gmail](yingshaoxo@gmail.com), don't use some weird soft like WeChat or kinds of. (Best wishes to you if you do)
 
