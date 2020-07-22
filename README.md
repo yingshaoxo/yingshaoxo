@@ -1,5 +1,11 @@
 # Hi there 👋 I'm your friend, yingshaoxo
 
+
+
+<!--
+**yingshaoxo/yingshaoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 ### I do open source at Github, making free tutorials at Youtube. If my government won't arrest me, I would also like to share my thoughts on Twitter.
 
 I have a real-life job, but it's not related to programming.
@@ -14,17 +20,4 @@ For what I could do, you could take a look at my repos, except those I forked, t
 
 By the way, contact me with [Gmail](yingshaoxo@gmail.com), don't use some weird soft like WeChat or kinds of. (Best wishes to you if you do)
 
-<!--
-**yingshaoxo/yingshaoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
