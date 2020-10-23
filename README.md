@@ -1,6 +1,10 @@
 # Hi there 👋 I'm your friend, yingshaoxo
 
+I'm looking for a way to improve my English speaking ability.
 
+So if you are a native English speaker, you can contact me to invite me to work for you as a part-time coder or researcher.
+
+All you have to pay is spent 10 minutes per day to practice English with me (I mean, just do a video chat or audio chat).
 
 <!--
 **yingshaoxo/yingshaoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
