@@ -4,7 +4,7 @@ I'm looking for a way to improve my English speaking ability.
 
 So if you are a native English speaker, you can contact me to invite me to work for you as a part-time coder or researcher.
 
-All you have to pay is spent 10 minutes per day to practice English with me (I mean, just do a real time video chat or audio talk).
+All you have to pay is spent 10 minutes per day to practice English with me (I mean, a real time video chat or audio talk).
 
 <!--
 **yingshaoxo/yingshaoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ I want to do some part-time jobs in my spare time. Because one day, I wish I cou
 
 > And also, I love dollars more than RMB.
 
-My power comes from Python, Javascript, Java, Golang, CPP, and so on. But to be honest, I can only use `Reactjs` or `Expo` or `Vuejs` or `Electron` or `Android Studio` or `Keras` or `Linux` or `Github` or `Stackoverflow` to do some development. Yes, I'm not an expert, so sadly.
+My power comes from Python, Javascript, Dart, Java, Golang, CPP, and so on. But to be honest, I can only use `Flutter` or `Reactjs` or `Expo` or `Vuejs` or `Electron` or `Android Studio` or `Keras` or `Linux` or `Github` or `Stackoverflow` to do some development. Yes, I'm not an expert, so sadly.
 
 For what I could do, you could take a look at my repos, except those I forked, they have everything you need to know me.
 
