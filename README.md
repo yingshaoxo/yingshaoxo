@@ -6,6 +6,7 @@ So if you are a native English speaker, you can contact me to invite me to work 
 
 All you have to pay is spent 10 minutes per day to practice English with me (I mean, a real time conversation, in the form of audio or video).
 
+
 <!--
 **yingshaoxo/yingshaoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,5 +24,7 @@ My power comes from Python, Javascript, Dart, Java, Golang, CPP, and so on. But 
 For what I could do, you could take a look at my repos, except those I forked, they have everything you need to know me.
 
 By the way, contact me with [Gmail](yingshaoxo@gmail.com), don't use some weird soft like WeChat or kinds of. (Best wishes to you if you do)
+
+[<img src="become_a_patron_button.png" width="200">](https://www.patreon.com/bePatron?u=45200693)
 
 -->
