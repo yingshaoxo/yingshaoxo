@@ -25,6 +25,6 @@ For what I could do, you could take a look at my repos, except those I forked, t
 
 By the way, contact me with [Gmail](yingshaoxo@gmail.com), don't use some weird soft like WeChat or kinds of. (Best wishes to you if you do)
 
-[<img src="become_a_patron_button.png" width="200">](https://www.patreon.com/bePatron?u=45200693)
+[<img src="https://github.com/yingshaoxo/yingshaoxo/raw/master/become_a_patron_button.png" width="200">](https://www.patreon.com/bePatron?u=45200693)
 
 -->
