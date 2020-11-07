@@ -1,10 +1,10 @@
 # Hi there 👋 I'm your friend, yingshaoxo
 
-I'm looking for a way to improve my English speaking ability.
+I'm looking for a way to constantly improve my English speaking ability. (Advanced Level for Commercial Usage)
 
 So if you are a native English speaker, you can contact me to invite me to work for you as a part-time coder or researcher.
 
-All you have to pay is spent 10 minutes per day to practice English with me (I mean, a real time video chat or audio talk).
+All you have to pay is spent 10 minutes per day to practice English with me (I mean, a real time conversation, in the form of audio or video).
 
 <!--
 **yingshaoxo/yingshaoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
