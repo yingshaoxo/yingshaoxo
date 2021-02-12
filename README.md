@@ -1,5 +1,7 @@
 # Hi there 👋 I'm your friend, yingshaoxo
 
+I can code with Python, Typescript, CPP, Dart.
+
 <!-- Got a part time job recentely
 I'm looking for a way to constantly improve my English speaking ability. (Advanced Level for Commercial Usage)
 
