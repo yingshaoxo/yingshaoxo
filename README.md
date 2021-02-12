@@ -1,6 +1,8 @@
 # Hi there 👋 I'm your friend, yingshaoxo
 
-I can code with Python, Typescript, CPP, Dart.
+I can code with Python, Typescript, CPP.
+
+> I don't wanna be a failure.
 
 <!-- Got a part time job recentely
 I'm looking for a way to constantly improve my English speaking ability. (Advanced Level for Commercial Usage)
