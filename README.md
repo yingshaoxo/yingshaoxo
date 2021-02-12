@@ -2,6 +2,8 @@
 
 I can code with Python, Typescript, CPP.
 
+But I prefer to be an expert of Python, CPP, Dart.
+
 > I don't wanna be a failure.
 
 <!-- Got a part time job recentely
