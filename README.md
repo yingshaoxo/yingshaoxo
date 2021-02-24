@@ -1,4 +1,7 @@
 # Hi there 👋 I'm your friend, yingshaoxo
+
+![Metrics](https://metrics.lecoq.io/yingshaoxo?template=classic&languages=1&languages.ignored=html%2C%20Jupyter%20Notebook%2CShaderLab%2C%20css%2Cc%2Cphp%2CBatchfile%2CAssembly&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai)
+
 <!--
 I can code with Python, Typescript, CPP.
 
