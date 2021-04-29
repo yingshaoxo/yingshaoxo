@@ -1,8 +1,10 @@
 # Hi there 👋 I'm your friend, yingshaoxo
 
-
+<!--
 [![](https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=yingshaoxo&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=yingshaoxo&show_icons=true&count_private=true)
+-->
 
+[![](https://github-readme-stats.vercel.app/api?username=yingshaoxo&show_icons=false&count_private=true)](https://github-readme-stats.vercel.app/api?username=yingshaoxo&show_icons=false&count_private=true)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=yingshaoxo&layout=compact&hide=html,css,Jupyter%20Notebook,C,C#)](https://github-readme-stats.vercel.app/api/top-langs/?username=yingshaoxo&layout=compact&hide=html,css,Jupyter%20Notebook,C,C#)
 
 <!--
