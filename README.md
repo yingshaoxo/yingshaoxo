@@ -6,7 +6,7 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=yingshaoxo&show_icons=false&count_private=true)](https://github-readme-stats.vercel.app/api?username=yingshaoxo&show_icons=false&count_private=true)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yingshaoxo&layout=compact&hide=html,css,Jupyter%20Notebook,C,C#)](https://github-readme-stats.vercel.app/api/top-langs/?username=yingshaoxo&layout=compact&hide=html,css,Jupyter%20Notebook,C,C#)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yingshaoxo&layout=compact&hide=html,css,Jupyter%20Notebook,C,c%23)](https://github-readme-stats.vercel.app/api/top-langs/?username=yingshaoxo&layout=compact&hide=html,css,Jupyter%20Notebook,C,c%23)
 
 <!--
 ![Metrics](https://metrics.lecoq.io/yingshaoxo?template=classic&languages=1&languages.ignored=html%2C%20Jupyter%20Notebook%2CShaderLab%2C%20css%2Cc%2Cphp%2CBatchfile%2CAssembly&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai)
