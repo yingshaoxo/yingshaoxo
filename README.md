@@ -15,6 +15,25 @@
 Here's my **YouTube Channel**: https://www.youtube.com/channel/UCbT9GDmkqf555ATReJor6ag
 > Subscribe if you like it.
 
+___
+
+## Help Wanted (紧急援助
+
+**I lost my job. And I don't have enough money to buy food, don't have enough money to wash clothes and take shower.**
+
+> 我失业快一年了，目前在深圳街头流浪。我没有钱买食物，只能在垃圾桶捡垃圾吃。同时我也找不到可以免费洗澡与洗衣服的地方。如果你有意向援助，请联系我，我的邮箱是：yingshaoxo@gmail.com。
+
+Here are some links that may helpful:
+
+### Paypal
+https://paypal.me/yingshaoxo
+
+### WeChat
+[<img src="https://github.com/yingshaoxo/yingshaoxo/raw/master/wechat_pay.png" width="250">](https://github.com/yingshaoxo/yingshaoxo/raw/master/wechat_pay.png)
+
+### Alipay
+[<img src="https://github.com/yingshaoxo/yingshaoxo/raw/master/aili_pay.jpeg" width="250">](https://github.com/yingshaoxo/yingshaoxo/raw/master/aili_pay.jpeg)
+
 <!--
 I can code with Python, Typescript, CPP.
 
