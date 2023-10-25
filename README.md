@@ -8,7 +8,9 @@ How do you fight back against evil people and platform and dictators and monopol
 
 You create your own version of stuff. DIY everything you use. (Do it yourself)
 
-To seek for independence and freedom, you have to reduce dependencies you used to rely on.
+To seek for independence and freedom, you have to reduce dependencies and find more alternatives.
+
+https://alternatives.ai-tools-online.xyz
 
 <!--
 [![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yingshaoxo&show_icons=false&count_private=true)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yingshaoxo&show_icons=false&count_private=true)
