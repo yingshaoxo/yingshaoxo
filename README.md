@@ -1,19 +1,27 @@
 # Hi there 👋 I'm your friend, yingshaoxo
 
-<!--
-[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=yingshaoxo&show_icons=true&count_private=true)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=yingshaoxo&show_icons=true&count_private=true)
--->
+Freedom is do whatever you want without disturb others.
 
+But censorship and false report will destroy your freedom.
+
+How do you fight back against evil people and platform and dictators and monopoly organization?
+
+You create your own version of stuff. DIY everything you use. (Do it yourself)
+
+To seek for independence and freedom, you have to reduce dependencies you used to rely on.
+
+<!--
 [![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yingshaoxo&show_icons=false&count_private=true)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yingshaoxo&show_icons=false&count_private=true)
 
 [![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yingshaoxo&layout=compact&langs_count=6&hide=html,css,Jupyter%20Notebook,C,kotlin,ShaderLab)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yingshaoxo&langs_count=6&layout=compact&hide=html,css,Jupyter%20Notebook,C,kotlin,ShaderLab)
-
-<!--
-![Metrics](https://metrics.lecoq.io/yingshaoxo?template=classic&languages=1&languages.ignored=html%2C%20Jupyter%20Notebook%2CShaderLab%2C%20css%2Cc%2Cphp%2CBatchfile%2CAssembly&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai)
 -->
 
-Here's my **YouTube Channel**: https://www.youtube.com/channel/UCbT9GDmkqf555ATReJor6ag
+___
+
+Here is my **YouTube Channel**: https://www.youtube.com/channel/UCbT9GDmkqf555ATReJor6ag
 > Subscribe if you like it.
+
+<!--
 
 ___
 
@@ -33,6 +41,8 @@ https://paypal.me/yingshaoxo
 
 ### Alipay
 [<img src="https://github.com/yingshaoxo/yingshaoxo/raw/master/aili_pay.jpeg" width="250">](https://github.com/yingshaoxo/yingshaoxo/raw/master/aili_pay.jpeg)
+
+-->
 
 <!--
 I can code with Python, Typescript, CPP.
