@@ -23,6 +23,17 @@ ___
 Here is my **YouTube Channel**: https://www.youtube.com/channel/UCbT9GDmkqf555ATReJor6ag
 > Subscribe if you like it.
 
+___
+
+How my github account got banned: 
+https://yingshaoxo.xyz/pictures/github/index.html
+
+How my stackoverflow questions got deleted:
+https://yingshaoxo.xyz/pictures/stackoverflow/index.html
+
+How my stackexchange question got deleted:
+https://yingshaoxo.xyz/pictures/stackexchange/index.html
+
 <!--
 
 ___
