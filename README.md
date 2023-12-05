@@ -37,7 +37,7 @@ My wechat also get banned for no reason. Why you guys use platforms that has cen
 
 ___
 
-> Any platform that has report function, has censorship.
+**Any platform that has report function, has censorship.**
 
 <!--
 
