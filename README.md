@@ -20,8 +20,7 @@ https://alternatives.ai-tools-online.xyz
 
 ___
 
-Here is my **YouTube Channel**: https://www.youtube.com/channel/UCbT9GDmkqf555ATReJor6ag
-> Subscribe if you like it.
+Here is my **personal website**: https://yingshaoxo.xyz
 
 ___
 
@@ -33,6 +32,12 @@ https://yingshaoxo.xyz/pictures/stackoverflow/index.html
 
 How my stackexchange question got deleted:
 https://yingshaoxo.xyz/pictures/stackexchange/index.html
+
+My wechat also get banned for no reason. Why you guys use platforms that has censorship?
+
+___
+
+> Any platform that has report function, has censorship.
 
 <!--
 
