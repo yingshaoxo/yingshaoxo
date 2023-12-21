@@ -39,6 +39,10 @@ ___
 
 **Any platform that has report function, has censorship.**
 
+___
+
+Github is dropped from my development stack because they force me to use 2 factor authentication, which is a way to force us to use SIM card. If you endure it, you will not be able to live normally in the future without SIM card or ID card.
+
 <!--
 
 ___
